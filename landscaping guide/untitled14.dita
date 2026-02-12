@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="untitled14">
+    <title>Definitions </title>
+    <body>
+        <dl id="dl_bbq_mjn_g3c">
+            <dlentry>
+                <dt>Automatic controller</dt>
+                <dd>Automatic controller means a device capable of operating irrigation valve
+                    stations to set days and length of time of water application.</dd>
+            </dlentry>
+            <dlentry>
+                <dt>Hydrozone</dt>
+                <dd>Hydrozone means a portion of the landscaped area having plants with similar
+                    water needs and rooting depth. A hydrozone may be irrigated or
+                    non-irrigated.</dd>
+            </dlentry>
+            <dlentry>
+                <dt>Landscaped area</dt>
+                <dd>Landscaped area means all planting areas, turf areas, and water features in a
+                    landscape design plan subject to the Maximum Applied Water Allowance
+                    calculation. The landscape area does not include footprints of buildings or
+                    structures, sidewalks, driveways, parking lots, decks, patios, gravel or stone
+                    walks, other pervious or non-pervious hardscapes and other non-irrigated areas
+                    designed for non-development.</dd>
+            </dlentry>
+            <dlentry>
+                <dt>Low volume irrigation</dt>
+                <dd>Low volume irrigation means the application of irrigation water at low pressure
+                    through a system of tubing or lateral lines and low-volume emitters such as
+                    drip, drip lines, and bubblers. Low volume irrigation systems are specifically
+                    designed to apply small volumes of water slowly at or near the root zone of
+                    plants.</dd>
+            </dlentry>
+            <dlentry>
+                <dt>Mulch.</dt>
+                <dd>Mulch means organic material such as leaves, bark, straw, compost, or inorganic
+                    material such as rocks, gravel or decomposed granite left loose and applied to
+                    the soil surface for beneficial purposes of reducing evaporation, suppressing
+                    weeds, moderating soil temperature and preventing soil erosion.</dd>
+            </dlentry>
+            <dlentry>
+                <dt>Overspray</dt>
+                <dd>Overspray means the irrigation water which is delivered beyond the target
+                    area.</dd>
+            </dlentry>
+            <dlentry>
+                <dt>Rain sensing device</dt>
+                <dd>Rain sensing device means a component which automatically suspends an irrigation
+                    event when it rains.</dd>
+            </dlentry>
+        </dl>
+    </body>
+</topic>
