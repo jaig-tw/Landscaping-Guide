@@ -1,7 +1,0 @@
-What's missing to make it a stronger Oxygen sample:
-
-No tables, which are a core XML authoring element
-No reused content (conrefs) or variables visible
-No cross-references with proper linking
-No use of notes/warnings/cautions (<note> elements)
-No evidence of conditional processing or profiling
