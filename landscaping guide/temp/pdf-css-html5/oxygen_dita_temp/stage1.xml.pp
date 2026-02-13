@@ -29,7 +29,7 @@
             visual quality of the environment. It involves suitable landscape design, planting,
             maintenance, and therefore to recognize and encourage scientific principles and
             techniques in landscaping.</p>
-        <image align="center" class="- topic/image " href="file:/D:/landscaping%20guide/Topics/images/1.png" id="unique_2_Connect_42_image_yp1_ygm_g3c" nd:nd-id="image_yp1_ygm_g3c" placement="inline" scale="80"/>
+        <image class="- topic/image " dita-ot:image-width="768" dita-ot:image-height="512" href="file:/D:/landscaping%20guide/Images/1.png" id="unique_2_Connect_42_image_lgf_vx1_h3c" nd:nd-id="image_lgf_vx1_h3c" placement="inline"/>
     </body>
 </topic><topic break-before="true" is-chapter="true" class="- topic/topic " id="unique_3" topicrefclass="- map/topicref " nd:nd-id="landscape_design_considerations" oid="landscape_design_considerations" specializations="@props/deliveryTarget">
     <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Landscape Design Considerations</ph></title>
@@ -52,7 +52,7 @@
             over half of the City's land area devoted to single family residential use. Therefore,
             development results from infill construction and rehabilitation, with some potential for
             redevelopment activity. </p>
-        <image align="center" class="- topic/image " href="file:/D:/landscaping%20guide/Topics/images/2.png" id="unique_3_Connect_42_image_ayh_4rm_g3c" nd:nd-id="image_ayh_4rm_g3c" placement="inline" scale="50"/>
+        <image align="center" class="- topic/image " dita-ot:image-width="1024" dita-ot:image-height="1024" href="file:/D:/landscaping%20guide/Images/2.png" id="unique_3_Connect_42_image_ayh_4rm_g3c" nd:nd-id="image_ayh_4rm_g3c" placement="inline" scale="50"/>
     </body>
 </topic><topic break-before="true" is-chapter="true" class="- topic/topic " id="unique_4" topicrefclass="- map/topicref " nd:nd-id="landscape_design_goals" oid="landscape_design_goals" specializations="@props/deliveryTarget">
     <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Landscape Design Goals</ph></title>
@@ -85,8 +85,7 @@
         <p class="- topic/p ">The Landscape Design Plan and Irrigation Design Plan are to be thoroughly checked by
             City. Staff for substantial compliance with the criteria contained in this document; the
             Landscape. Design Plan shall be in substantial conformity with the Preliminary Landscape
-            Design Plan.</p>
-        <image align="center" class="- topic/image " href="file:/D:/landscaping%20guide/Topics/images/3.png" id="unique_6_Connect_42_image_zxn_sbn_g3c" nd:nd-id="image_zxn_sbn_g3c" placement="inline" scale="50"/>
+            Design Plan. <image class="- topic/image " dita-ot:image-width="860" dita-ot:image-height="860" href="file:/D:/landscaping%20guide/Images/3.png" id="unique_6_Connect_42_image_rsl_cy1_h3c" nd:nd-id="image_rsl_cy1_h3c" placement="inline"/></p>
     </body>
 </topic><topic break-before="true" is-chapter="true" class="- topic/topic " id="unique_7" topicrefclass="- map/topicref " nd:nd-id="design_review_approval_of_preliminary_landscape_design_plan" oid="design_review_approval_of_preliminary_landscape_design_plan" specializations="@props/deliveryTarget">
     <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Design Review approval of Preliminary Landscape Design Plan</ph></title>

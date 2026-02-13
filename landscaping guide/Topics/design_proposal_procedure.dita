@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="design_proposal_procedure">
+    <title>Design Proposal - Procedure</title>
+    <body>
+        <p>Most landscape design proposals will require a two-step review process as described
+                below:<ul id="ul_rhc_l1n_g3c">
+                <li><xref href="design_review_approval_of_preliminary_landscape_design_plan.dita"
+                        >Design Review approval of Preliminary Landscape Design Plan.</xref></li>
+                <li><xref
+                        href="plan_check_approval_of_landscape_design_plan_and_irrigation_design_plan.dita"
+                        >Plan Check approval of Landscape Design Plan and Irrigation Design
+                        Plan.</xref></li>
+            </ul></p>
+        <p>The Landscape Design Plan and Irrigation Design Plan are to be thoroughly checked by
+            City. Staff for substantial compliance with the criteria contained in this document; the
+            Landscape. Design Plan shall be in substantial conformity with the Preliminary Landscape
+            Design Plan. <image href="../Images/3.png" id="image_rsl_cy1_h3c"/></p>
+    </body>
+</topic>
