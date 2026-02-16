@@ -22,7 +22,7 @@
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>6/dita/ditamap.framework/DITA Map/DITA Map PDF - based on XSL-FO</String>
+                                        <String>6/dita/ditamap.framework/DITA Map/DITA Map PDF - based on HTML5 &amp; CSS</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
