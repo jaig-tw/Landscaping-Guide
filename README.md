@@ -8,5 +8,5 @@ You can see the final output in https://github.com/jaig-tw/Landscaping-Guide/tre
 - Final Output PDF File (the same file is uploaded separately also)
 - Project file and all other working files
 ## Note
-These files are for portfolio purpose only
+These files are for portfolio purpose only.
 
